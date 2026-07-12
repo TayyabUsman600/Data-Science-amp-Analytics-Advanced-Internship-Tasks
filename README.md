@@ -1,7 +1,5 @@
 # Data Science & Analytics – Advanced Internship Tasks
 **DevelopersHub Corporation**  
-**Author:** [Your Name]  
-**Due Date:** July 21st, 2026
 
 ## 📌 Project Overview
 This repository contains the advanced data science tasks completed during my Data Science & Analytics Internship at DevelopersHub Corporation. The projects demonstrate practical applications of real-world machine learning paradigms, spanning unsupervised customer segmentation, predictive binary classification, explainable AI (XAI) implementations, and financial cost-threshold optimization pipelines.
